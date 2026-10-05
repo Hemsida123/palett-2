@@ -1,0 +1,1 @@
+Öppna index.html. Behåll alla mappar och filer tillsammans. Kontaktformuläret skapar ett mejlutkast; besökaren skickar själv från sin mejlapp.

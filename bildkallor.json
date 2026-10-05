@@ -1,0 +1,141 @@
+{
+  "source": "Original Palett website and its public WordPress media API; no generated imagery.",
+  "hero_recommendation": {
+    "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/730-MG_8653.jpg",
+    "reason": "High resolution wide brand interior; warm lamps, vintage pieces, working scene. Use 50% 50% object-position with modest overlay; preserve both lamps and person.",
+    "alternate": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/729-MG_8629.jpg"
+  },
+  "selected": [
+    {
+      "id": 292,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/palett-logo-blue.png",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/04/cropped-Palettlogo_blue.png",
+      "source_page_url": "https://palettinredare.se/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/292",
+      "width": 700,
+      "height": 270,
+      "title": "Brand logo",
+      "description": "Authentic deep blue/charcoal transparent Palett Inredare wordmark.",
+      "recommended_use": "Logo"
+    },
+    {
+      "id": 801,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/rebecka-widar.jpg",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/10/MG_8752-2.jpg",
+      "source_page_url": "https://palettinredare.se/om-palett-inredare-i-linkoping/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/801",
+      "width": 3648,
+      "height": 5472,
+      "title": "Rebecka Widar portrait",
+      "description": "Black-and-white seated portrait in a vintage elevator; About page identifies the founder as Rebecka Widar.",
+      "recommended_use": "About portrait"
+    },
+    {
+      "id": 730,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/730-MG_8653.jpg",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/10/MG_8653.jpg",
+      "source_page_url": "https://palettinredare.se/_mg_8653/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/730",
+      "width": 5472,
+      "height": 3648,
+      "title": "Studio worktable",
+      "description": "Warm vintage interior with person working at a glass table between two green lamps. Original image from the public Palett media library; specific project/person caption not supplied.",
+      "recommended_use": "Recommended hero"
+    },
+    {
+      "id": 1149,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/1149-kommod-1.png",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2025/10/kommod-1.png",
+      "source_page_url": "https://palettinredare.se/portfolio/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/1149",
+      "width": 1920,
+      "height": 2560,
+      "title": "Linköping villa bathroom — vanity",
+      "description": "Verified portfolio project: bathroom in an architect-designed 1960s villa in Linköping. Green tile, walnut-toned vanity, round basin.",
+      "recommended_use": "Project gallery"
+    },
+    {
+      "id": 1150,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/1150-vy-badkar.png",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2025/10/vy-badkar.png",
+      "source_page_url": "https://palettinredare.se/portfolio/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/1150",
+      "width": 1920,
+      "height": 2560,
+      "title": "Linköping villa bathroom — bathtub",
+      "description": "Same verified Linköping villa renovation. Green tiled bath, floor and walls.",
+      "recommended_use": "Project gallery"
+    },
+    {
+      "id": 212,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/212-vaxtinredare-forsta-sidan-scaled.jpg",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/03/vaxtinredare-forsta-sidan-scaled.jpg",
+      "source_page_url": "https://palettinredare.se/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/212",
+      "width": 1920,
+      "height": 2560,
+      "title": "Plant-styled interior",
+      "description": "Published homepage plant styling image: tall indoor plant, light timber chairs, paper pendant. Client/location not explicitly identified.",
+      "recommended_use": "Plant styling service"
+    },
+    {
+      "id": 118,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/118-IMG_1991-2-scaled.jpg",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/03/IMG_1991-2-scaled.jpg",
+      "source_page_url": "https://palettinredare.se/inredningstjanster_foretag/img_1991-2/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/118",
+      "width": 2560,
+      "height": 1920,
+      "title": "Office planting",
+      "description": "Office planting atop pale storage cabinets. Media attachment associated with business interior services; no named client.",
+      "recommended_use": "Business interiors"
+    },
+    {
+      "id": 1144,
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/1144-vintagejagare.png",
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2025/10/vintagejagare.png",
+      "source_page_url": "https://palettinredare.se/",
+      "source_metadata_url": "https://palettinredare.se/wp-json/wp/v2/media/1144",
+      "width": 1920,
+      "height": 2560,
+      "title": "Vintage furnishing brand image",
+      "description": "Published homepage Vintagejägare photograph: seated person with vintage red chair and multi-globe floor lamp outdoors.",
+      "recommended_use": "Vintage service"
+    }
+  ],
+  "alternates": [
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/729-MG_8629.jpg",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/10/MG_8629.jpg",
+      "description": "Wider, higher viewpoint of same studio."
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/738-MG_8836.jpg",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2024/10/MG_8836.jpg",
+      "description": "Close foreground green lamp with studio and desk beyond."
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/palett-assets/1130-JDP_2665-bw.jpg",
+      "dimensions": [
+        5464,
+        8192
+      ],
+      "source_image_url": "https://palettinredare.se/wp-content/uploads/2025/10/JDP_2665-bw.jpg",
+      "description": "Alternative monochrome portrait published on homepage, seated against plain backdrop."
+    }
+  ],
+  "cautions": [
+    "home-landscape.png is an inherited WordPress geometric placeholder, not a photograph. Do not use.",
+    "1156-Vy-badrum-1.1-1.png is a before-renovation photo. Do not label it as the completed bathroom.",
+    "Portfolio Finspång and Stockholm imagery are digital drawings, not completed interior photographs.",
+    "Do not invent client/project names for archive photos that lack captions."
+  ]
+}
